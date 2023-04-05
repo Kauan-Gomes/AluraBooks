@@ -37,6 +37,8 @@
 .lista-menu__titulo, .lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
+    position: relative;
+    z-index: 2;
 }
 
 .lista-menu__titulo {
