@@ -72,9 +72,17 @@
         </ul>
 
         <div class="container">
-            <a href="#"><img src="images/Favoritos.svg" alt="meus favoritos" class="container__imagem container__imagem--transparente"></a>
-            <a href="#"> <img src="images/Compras.svg" alt="carrinho de compras" class="container__imagem"></a>
-            <a href="#"> <img src="images/Usuário.svg" alt="meu usuario" class="container__imagem"></a>
+            <a href="#" class="container__link"  >
+                <img src="images/Favoritos.svg" alt="meus favoritos" class="container__imagem container__imagem--transparente">
+            </a>
+            <a href="#"  class="container__link"> 
+                <img src="images/Compras.svg" alt="carrinho de compras" class="container__imagem">
+                <p class="container__texto">Minha sacola</p>
+            </a>
+            <a href="#" class="container__link" > 
+                <img src="images/Usuário.svg" alt="meu usuario" class="container__imagem">
+                <p class="container__texto">Meu perfil</p>
+            </a>
         </div>    
     </header>
     <section class="banner">
@@ -84,9 +92,11 @@
     </section>
     <section class="carrosel">
         <h2 class="carrosel__titulo">ÚLTIMOS LANÇAMENTOS</h2>
+        <div class="carrosel__container">
         <div class="swiper">
             <div class="swiper-pagination"></div>
             <!-- Additional required wrapper -->
+        
             <div class="swiper-wrapper">
               <!-- Slides -->
               <div class="swiper-slide"><img src="images/Liderança.png" alt="Livro carreira sem fronteira"></div>
@@ -122,10 +132,12 @@
             </div>
             
           </div>
+        </div>
     </section>
 
     <section class="carrosel">
         <h2 class="carrosel__titulo">MAIS VENDIDOS</h2>
+        <div class="carrosel__container">
         <div class="swiper">
             <div class="swiper-pagination"></div>
             <!-- Additional required wrapper -->
@@ -165,6 +177,7 @@
             </div>
             
           </div>
+        </div>
     </section>
 
     <section class="topicos">
