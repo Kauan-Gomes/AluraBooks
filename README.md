@@ -22,13 +22,13 @@
 - Importar e usar fontes do google fonts;
 - Criar sections;
 - Editar input e seu placeholder.
-- - Aplicar plugins externos através de CDN;
+- Aplicar plugins externos através de CDN;
 - Utilizar o plugin SwiperJS;
 - Reforçar o aprendizado de flexbox;
 - Reutilizar elementos e estilos;
 - Criar listas;
 - Editar input e seu placeholder.
-- - Usar media queries;
+- Usar media queries;
 - Aplicar diferentes estilos para diferentes tamanhos de tela;
 - Retirar elementos da tela;
 - Aplicar elementos na tela de acordo com o tamanho do dispositivo
