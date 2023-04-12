@@ -4,9 +4,8 @@
 
 ### mobile:
 
-    <img src="https://user-images.githubusercontent.com/114104047/231482187-0630df25-194e-425e-9ec0-00be114c9c25.png" alt="AluraBooks mobile primeira tela">
-
-    <img src="https://user-images.githubusercontent.com/114104047/231483850-26919506-ca78-490c-be27-820ad92e7d82.png" alt="Segunda tela do mobile">
+<img src="https://user-images.githubusercontent.com/114104047/231482187-0630df25-194e-425e-9ec0-00be114c9c25.png" alt="AluraBooks mobile primeira tela" >
+<img src="https://user-images.githubusercontent.com/114104047/231483850-26919506-ca78-490c-be27-820ad92e7d82.png" alt="Segunda tela do mobile">
 
 
 
