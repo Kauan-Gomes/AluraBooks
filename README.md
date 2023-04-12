@@ -2,6 +2,8 @@
 
 ## Projeto desenvolvido durante Curso Alura de HTML e CSS: responsividade com mobile-first 
 
+<a href="https://alura-books-kauang13.vercel.app/">Link do AluraBooks</a>
+
 <h3 align="center";> mobile: </h3>
 
 <div display="flex"; align="center";>
@@ -14,6 +16,14 @@
 <div display="flex"; align="center";>
 <img src="https://user-images.githubusercontent.com/114104047/231497088-d83b941e-3c69-463b-a5a2-6d44532d4b8b.PNG" heigth="650"; width="500";>
 <img src="https://user-images.githubusercontent.com/114104047/231496780-d431ffac-fa88-4194-a6e6-3543fb01150c.PNG" heigth="650"; width="500";>
+</div>
+
+<h3 align="center";> Desktop 1728px: </h3>
+
+<div display="flex"; align="center";>
+<img src="https://user-images.githubusercontent.com/114104047/231499899-a5cf8585-8f02-4ab4-83d7-ed983bdfece3.PNG" heigth="650"; width="500";>
+<img src="https://user-images.githubusercontent.com/114104047/231499914-9702f5e4-a6c5-4c69-a786-667a699d95b2.PNG" heigth="650"; width="500";>
+<img src="https://user-images.githubusercontent.com/114104047/231499928-2bac506f-9332-44be-ab36-cd55b3b6cdd0.PNG" heigth="650"; width="500";>
 </div>
 
 
