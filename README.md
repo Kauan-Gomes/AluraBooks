@@ -2,11 +2,12 @@
 
 ## Projeto desenvolvido durante Curso Alura de HTML e CSS: responsividade com mobile-first 
 
-### mobile:
+<h3 align="center";> mobile: </h3>
 
-<img src="https://user-images.githubusercontent.com/114104047/231482187-0630df25-194e-425e-9ec0-00be114c9c25.png" alt="AluraBooks mobile primeira tela" >
-<img src="https://user-images.githubusercontent.com/114104047/231483850-26919506-ca78-490c-be27-820ad92e7d82.png" alt="Segunda tela do mobile">
-
+<div display="flex"; align="center";>
+<img  src="https://user-images.githubusercontent.com/114104047/231482187-0630df25-194e-425e-9ec0-00be114c9c25.png" alt="AluraBooks mobile primeira tela" heigth="350"; width="200";>
+<img src="https://user-images.githubusercontent.com/114104047/231483850-26919506-ca78-490c-be27-820ad92e7d82.png" alt="Segunda tela do mobile"  heigth="350"; width="200";>
+</div>
 
 
 ### Conhecimentos vistos:
