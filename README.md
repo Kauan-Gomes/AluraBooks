@@ -2,7 +2,8 @@
 
 ## Projeto desenvolvido durante Curso Alura de HTML e CSS: responsividade com mobile-first 
 
-<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+<img src="imagesREADME/mobile.png" alt="AluraBooks mobile" />
+
 
 
 ### Conhecimentos vistos:
