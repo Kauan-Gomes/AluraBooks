@@ -5,7 +5,7 @@
 ### mobile:
 
 <ul>
-    <li><img src="images/mobile.PNG" alt="AluraBooks mobile primeira tela"></li>
+    <li><img src="https://user-images.githubusercontent.com/114104047/231482187-0630df25-194e-425e-9ec0-00be114c9c25.png" alt="AluraBooks mobile primeira tela" ></li>
     <li><img src="images/mobile2.png" alt="Segunda tela do mobile"></li>
 </ul>
 
