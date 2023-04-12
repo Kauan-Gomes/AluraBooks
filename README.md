@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido durante Curso Alura de HTML e CSS: responsividade com mobile-first 
 
-<img src="imagesREADME/mobile.png" alt="AluraBooks mobile" />
+<img src="imagesReadme/mobile.PNG" alt="AluraBooks mobile" />
 
 
 
